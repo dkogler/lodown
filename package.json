@@ -1,0 +1,26 @@
+{
+  "name": "lodown-dkogler",
+  "version": "1.1.0",
+  "description": "lodown project for opspark",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkogler/lodown.git"
+  },
+  "keywords": [
+    "lodown",
+    "opspark"
+  ],
+  "author": "Daniel Kogler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkogler/lodown/issues"
+  },
+  "homepage": "https://github.com/dkogler/lodown#readme"
+}
